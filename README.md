@@ -13,7 +13,7 @@
 7. Individual profile for every logged in user
 
 ## Technology Used
-### React.js, Firebase, Node js, Express, MongoDb, React Bootstrap
+### React.js, Firebase, Node js, Express, MongoDb, Bootstrap
 
 ## [Live Site](https://facebook-2o.web.app/)
 
