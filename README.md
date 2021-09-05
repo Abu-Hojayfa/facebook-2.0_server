@@ -5,7 +5,7 @@
 ## Functionalities
 ### It is a facebook clone project (MERN)
 1. Login using Google and Facebook
-2. Prvate routing
+2. Private routing
 3. Logged in user can see others post
 4. User can post with or without image
 5. In post reaction method
